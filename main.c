@@ -49,7 +49,7 @@ void init_ball()
 	wooblespeed = 0;
 }
 
-int main(int argc, char **argv)
+int main(int argc, char **argv) //we don't use these parameters, and this triggers a warning, but a Allegro macro need them.
 {
 	ALLEGRO_DISPLAY *display = NULL; //this refers to the window (if in windowed mode) + contents
 	ALLEGRO_EVENT_QUEUE *event_queue = NULL; //we need a event queue to well, queue events.
