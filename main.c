@@ -109,7 +109,7 @@ int main(int argc, char **argv) //we don't use these parameters, and this trigge
 	monitorHeight = monitorInformation.y2-monitorInformation.y1;
 	
 	al_set_new_display_option(ALLEGRO_VSYNC, 1, ALLEGRO_SUGGEST); //this is to avoid tearing on fullscreen, not needed on window modes
-	al_set_new_display_flags(ALLEGRO_FULLSCREEN); //I am using fullscreen because in windowed mode is easy to click outside the game and switch to something else
+	al_set_new_display_flags(ALLEGRO_OPENGL | ALLEGRO_FULLSCREEN); //I am using fullscreen because in windowed mode is easy to click outside the game and switch to something else
 	display = al_create_display(monitorWidth, monitorHeight);
 	if(!display)
 	{
