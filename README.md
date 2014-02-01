@@ -5,8 +5,8 @@ This is Pondrian 3, a third version of a game that I regularly create to test pr
 It is inspired by Piet Mondrian paintings, and you can find more information about it on my site: [http://coderofworlds.com/pondrian/]
 
 ### Credits: ###
-**Art:** Pieter Cornelis Mondrian (also known as Piet)
-**Code:** Maurício Gomes (also known as Speeder)
+**Art:** Pieter Cornelis Mondrian (also known as Piet)  
+**Code:** Maurício Gomes (also known as Speeder)  
 **Sound effects:** Maurício Gomes
 
 
