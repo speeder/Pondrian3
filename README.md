@@ -1,15 +1,18 @@
+# Pondrian Third Edition #
+
 This is Pondrian 3, a third version of a game that I regularly create to test programming languages and APIs.
 
-It is inspired by Piet Mondrian paintings, and you can find more information about it on my site: http://coderofworlds.com/pondrian/
+It is inspired by Piet Mondrian paintings, and you can find more information about it on my site: [http://coderofworlds.com/pondrian/]
 
-Credits:
-Art: Piet Mondrian
-Code: Maurício Gomes (also known as Speeder)
-Sound effects: Maurício Gomes
+### Credits: ###
+**Art:** Pieter Cornelis Mondrian (also known as Piet)
+**Code:** Maurício Gomes (also known as Speeder)
+**Sound effects:** Maurício Gomes
 
 
 
-License:
+# License #
+
 Copyright (c) 2014, Maurício Gomes
 All rights reserved.
 
